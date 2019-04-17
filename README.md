@@ -21,7 +21,7 @@
 
 It's Admin menu ![](adminmenu.jpg)
 
-Now, let's add a student ![](addstudent.jpg)
+**Now, let's add a student ![](addstudent.jpg)
 
 Adding New book ![](newbook.png)
 
